@@ -6,3 +6,4 @@ read_csv('mars_elements.csv')
 
 # Plot elements 
 # I think we should convert this code to R.
+# Python preferred!!
